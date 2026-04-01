@@ -22,8 +22,8 @@ This combination allows both generation and validation of stylistic fidelity.
 ## 🎯 Objectives
 
 - Generate poems in the style of six Romanian authors  
-- Automatically evaluate stylistic accuracy  
-- Improve generation quality through style-aware feedback  
+- Automatically evaluate stylistic accuracy
+- Understand the realtion between styl, creativity and machine learning
 
 ---
 
